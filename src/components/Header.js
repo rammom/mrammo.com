@@ -9,7 +9,7 @@ function Header(props) {
 			<MyNav history={props.history}/>
 			<Container style={{ marginTop: "1em" }}>
 				<div style={{ display: "flex", flexFlow: "column nowrap", alignItems: "center" }}>
-					<h2>mrammo.com</h2>
+					<h2>mrammo.ca</h2>
 					<div style={{ width: "50%" }}>
 						<SocialLinks />
 					</div>
