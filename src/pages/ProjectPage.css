@@ -1,0 +1,8 @@
+.my_list_group_item {
+	color: black;
+}
+
+.my_list_group_item:hover {
+	background-color: rgba(0, 123, 255, 0.1);
+	cursor: pointer;
+}

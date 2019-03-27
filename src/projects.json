@@ -1,0 +1,11 @@
+{
+	"projects": [
+		{
+			"name": "IPD Genetic Algorithm",
+			"desc": "Genetic Algorithm to find optimal solutions to the Iterated Prisoner's Dilemma game",
+			"github": "https://github.com/rammom/IPD_GeneticAlgorithm",
+			"date": "Tue Mar 26 2019",
+			"img": "/IPD_Genetic"
+		}
+	]
+}

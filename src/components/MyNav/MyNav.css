@@ -1,0 +1,12 @@
+.my_nav_link {
+	cursor: pointer;
+	font-size: 1em;
+	font-weight: 400;
+	transition: 0.3s;
+}
+
+.my_nav_link:hover {
+	font-size: 1.15em;
+	font-weight: 700;
+	transition: 0.3s;
+}
