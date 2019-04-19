@@ -51,7 +51,7 @@
 		{
 			"name": "Raycasting",
 			"desc": "First attempt at a raycasting engine, product of my curiosity in raycasting, this is a 3D world redered in two dimentional space",
-			"github": "https://github.com/rammom/raycast.git",
+			"github": "https://github.com/rammom/raycast",
 			"date": "Sat Jan 26 2019",
 			"img": "./raycast_img.png",
 			"badges": [
@@ -62,6 +62,23 @@
 				{
 					"language": "SDL2",
 					"color": "secondary"
+				}
+			]
+		},
+		{
+			"name": "Online Web Store",
+			"desc": "An online demo store built for Shopify's winter 2019 intern challenge. Able to create stores, products and complete orders with a shopping cart",
+			"github": "https://github.com/rammom/ShopifyApplicationWinter2019",
+			"date": "Mon Sep 17 2018",
+			"img": "./shopify.png",
+			"badges": [
+				{
+					"language": "Javascript",
+					"color": "warning"
+				},
+				{
+					"language": "AngularJs",
+					"color": "danger"
 				}
 			]
 		}
