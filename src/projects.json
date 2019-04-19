@@ -1,11 +1,69 @@
 {
 	"projects": [
 		{
+			"name": "Physher",
+			"desc": "Use physher to send fake phishing emails spoofed from anyone to anyone",
+			"github": "https://github.com/rammom/Physher.git",
+			"date": "Wed Apr 17 2019",
+			"img": "./Physher.png",
+			"badges": [
+				{
+					"language": "Javascript",
+					"color": "warning"
+				}
+			]
+		},
+		{
+			"name": "OpenGL Learning Project",
+			"desc": "Began learning OpenGl for a Computer Graphics class. This is the end result, implemented a POV camera, object model loading, shading (lighting), etc..",
+			"github": "https://github.com/rammom/COMP3520-FinalProject",
+			"date": "Wed Apr 10 2019",
+			"img": "./OpenGl.png",
+			"badges": [
+				{
+					"language": "C++",
+					"color": "danger"
+				},
+				{
+					"language": "OpenGL",
+					"color": "secondary"
+				},
+				{
+					"language": "GLSL",
+					"color": "dark"
+				}
+			]
+		},
+		{
 			"name": "IPD Genetic Algorithm",
 			"desc": "Genetic Algorithm to find optimal solutions to the Iterated Prisoner's Dilemma game",
 			"github": "https://github.com/rammom/IPD_GeneticAlgorithm",
 			"date": "Tue Mar 26 2019",
-			"img": "/IPD_Genetic"
+			"img": "./IPD_Genetic.png",
+			"demo": "http://ipd.mrammo.ca/",
+			"badges": [
+				{
+					"language": "Javascript",
+					"color": "warning"
+				}
+			]
+		},
+		{
+			"name": "Raycasting",
+			"desc": "First attempt at a raycasting engine, product of my curiosity in raycasting, this is a 3D world redered in two dimentional space",
+			"github": "https://github.com/rammom/raycast.git",
+			"date": "Sat Jan 26 2019",
+			"img": "./raycast_img.png",
+			"badges": [
+				{
+					"language": "C++",
+					"color": "danger"
+				},
+				{
+					"language": "SDL2",
+					"color": "secondary"
+				}
+			]
 		}
 	]
 }
