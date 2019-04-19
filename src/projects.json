@@ -58,7 +58,7 @@
 		},
 		{
 			"name": "Raycasting",
-			"desc": "First attempt at a raycasting engine, product of my curiosity in raycasting, this is a 3D world redered in two dimentional space",
+			"desc": "First attempt at a raycasting engine, product of my curiosity in raycasting, this is a 3D world rendered in two dimentional space",
 			"github": "https://github.com/rammom/raycast",
 			"date": "Sat Jan 26 2019",
 			"img": "./raycast_img.png",
