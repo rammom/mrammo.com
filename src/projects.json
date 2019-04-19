@@ -10,6 +10,10 @@
 				{
 					"language": "Javascript",
 					"color": "warning"
+				},
+				{
+					"language": "React",
+					"color": "primary"
 				}
 			]
 		},
@@ -45,6 +49,10 @@
 				{
 					"language": "Javascript",
 					"color": "warning"
+				},
+				{
+					"language": "React",
+					"color": "primary"
 				}
 			]
 		},
