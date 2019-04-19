@@ -21,7 +21,7 @@ export class AboutPage extends Component {
 							Java Spring Boot and JUnit respectively. My main area of expertise lies with javascript, taking advantage of the Expressjs and Reactjs frameworks to put together functional web applications. 
 							I also enjoy dipping my toes into AI and Machine Learning technologies using Python, and working with devops.
 							<br /><br />
-							&nbsp;&nbsp;&nbsp;&nbsp; Other hobbies include bodybuilding, reading, snowboarding and of course procrastinating (very well). Feel free to contact me by email at <b>mr.rammo@gmail.com</b> if you have any questions/inquiries or would just like to chat :)
+							&nbsp;&nbsp;&nbsp;&nbsp; Other hobbies include bodybuilding, reading, adrenaline filled exercises and of course procrastinating (very well). Feel free to contact me by email at <b>mr.rammo@gmail.com</b> if you have any questions/inquiries or would just like to chat :)
 						</p>
 					</Row>
 				</Container>
