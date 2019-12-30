@@ -17,11 +17,7 @@ export class AboutPage extends Component {
 					<hr style={{ margin: "2% 30% 2% 30%"}}/>
 					<Row>
 						<p style={{margin: "0% 20% 0% 20%"}}>
-							&nbsp;&nbsp;&nbsp;&nbsp; Currently interning at RBC Toronto while finishing my Computer Science degree at the University of Windsor. Former software development intern at IBM where I worked in web development and testing specifically using
-							Java Spring Boot and JUnit respectively. My main area of expertise lies with javascript, taking advantage of the Expressjs and Reactjs frameworks to put together functional web applications. 
-							I also enjoy dipping my toes into AI and Machine Learning technologies using Python, and working with devops.
-							<br /><br />
-							&nbsp;&nbsp;&nbsp;&nbsp; Other hobbies include bodybuilding, reading, adrenaline filled exercises and of course procrastinating (very well). Feel free to contact me by email at <b>mr.rammo@gmail.com</b> if you have any questions/inquiries or would just like to chat :)
+							&nbsp;&nbsp;&nbsp;&nbsp; Currently finishing my Computer Science degree at the University of Windsor. Former software developer intern at IBM and The Royal Bank of Canada. I like Node.js and computers. Other hobbies include wellness and reading. My email is <b>mr.rammo@gmail.com</b> in case you ever need to send me one.
 						</p>
 					</Row>
 				</Container>
