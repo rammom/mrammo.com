@@ -1,6 +1,24 @@
 {
 	"projects": [
 		{
+			"name": "SkySwim",
+			"desc": "Utilized conventional software engineering methodologies in order to mimic a modern day social media web app",
+			"github": "https://github.com/rammom/SkySwim.git",
+			"date": "Mon Dec 30 2019",
+			"img": "./skyswim2.png",
+			"demo": "http://skyswim.mrammo.ca/",
+			"badges": [
+				{
+					"language": "Node.js",
+					"color": "warning"
+				},
+				{
+					"language": "React",
+					"color": "primary"
+				}
+			]
+		},
+		{
 			"name": "Physher",
 			"desc": "Use physher to send fake phishing emails spoofed from anyone to anyone",
 			"github": "https://github.com/rammom/Physher.git",
@@ -8,7 +26,7 @@
 			"img": "./Physher.png",
 			"badges": [
 				{
-					"language": "Javascript",
+					"language": "Node.js",
 					"color": "warning"
 				},
 				{
@@ -47,7 +65,7 @@
 			"demo": "http://ipd.mrammo.ca/",
 			"badges": [
 				{
-					"language": "Javascript",
+					"language": "Node.js",
 					"color": "warning"
 				},
 				{
@@ -81,7 +99,7 @@
 			"img": "./shopify.png",
 			"badges": [
 				{
-					"language": "Javascript",
+					"language": "Node.js",
 					"color": "warning"
 				},
 				{
