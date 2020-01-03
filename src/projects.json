@@ -97,6 +97,7 @@
 			"github": "https://github.com/rammom/ShopifyApplicationWinter2019",
 			"date": "Mon Sep 17 2018",
 			"img": "./shopify.png",
+			"demo": "https://shopify19.mrammo.ca/",
 			"badges": [
 				{
 					"language": "Node.js",
