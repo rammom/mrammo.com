@@ -31,7 +31,8 @@ export class ProjectPage extends Component {
 								{badges}
 								<br />
 								<span style={{ fontSize: "0.8em" }}>{project.date}</span><br /><br />
-								{(project.demo) ? <a href={project.demo}><Button color="info" size="sm">Demo</Button></a> : null}
+								{(project.demo) ? <a href={project.demo}><Button color="info" size="sm" style={{marginRight: '10px'}}>Demo</Button></a> : null}
+								{(project.other) ? <a href={project.other.link}><Button color="warning" size="sm">{project.other.name}</Button></a> : null}
 							</Col>
 							<Col xl="3">
 								<img src={project.img} alt={project.img} height="150em" style={{ float: "right" }} />
@@ -53,6 +54,12 @@ export class ProjectPage extends Component {
 			<div>
 				<Header history={this.props.history} />
 				<Container>
+					<div style={{margin: '5%'}}>
+						Here are some of the projects I've worked on, <b>click on any of them to view the github page. </b><br />
+						As a side note, I try to improve my skills day by day. That being said, if the code here sucks I'm sorry, I promise I'm working on making myself better.
+						I keep these projects up as benchmarks, and for a little bit of nostalgia.
+						Enjoy :)
+					</div>
 					{this.render_projects()}
 				</Container>
 			</div>

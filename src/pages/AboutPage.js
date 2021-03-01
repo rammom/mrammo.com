@@ -8,16 +8,19 @@ export class AboutPage extends Component {
 			<div>
 				<Header history={this.props.history} />
 				<Container>
-					<Row>
-						<Col style={{textAlign: "center", width: "100%"}}>
-							<img src="https://avatars2.githubusercontent.com/u/4411114?s=460&v=4" alt="me" style={{borderRadius: "50%", border: "4px solid black", width: "30%", marginBottom: "1em"}} />
-							<h4>Mostapha Rammo</h4>
-						</Col>
-					</Row>
-					<hr style={{ margin: "2% 30% 2% 30%"}}/>
+					
 					<Row>
 						<p style={{margin: "0% 20% 0% 20%"}}>
-							&nbsp;&nbsp;&nbsp;&nbsp; Currently finishing my Computer Science degree at the University of Windsor. Former software developer intern at IBM and The Royal Bank of Canada. I like Node.js and computers. Other hobbies include wellness and reading. My email is <b>mr.rammo@gmail.com</b> in case you ever need to send me one.
+							Once a student, always a student. If there's one thing I can tell you about myself with complete certainty is that I love to learn. 
+							The world as a whole facinates me, and it's my life goal to have an impact on it's development.
+							<br />
+							<br />
+							I have a Bachelors of Computer Science. I worked for <b>IBM</b> and <b>RBC</b> as a software development intern during my studies, where I learnt how projects
+							are being run in the industry and what it's like to work with a team of talented individual to improve a product.
+							<br />
+							<br />
+							Currently I'm working with the family business, building a product and logistics management application and a tailored point of sale system. 
+							Everything concerning the business will be tied together with a joint authentication server for easy single-sign-on functionality.
 						</p>
 					</Row>
 				</Container>

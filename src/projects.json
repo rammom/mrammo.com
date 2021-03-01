@@ -4,6 +4,10 @@
 			"name": "SkySwim",
 			"desc": "Utilized conventional software engineering methodologies in order to mimic a modern day social media web app",
 			"github": "https://github.com/rammom/SkySwim.git",
+			"other": {
+				"name": "Medium Article",
+				"link": "https://medium.com/@mrammo/how-i-built-a-modern-day-social-media-application-with-node-js-part-1-120c11e9a97b"
+			},
 			"date": "Mon Dec 30 2019",
 			"img": "./skyswim3.png",
 			"demo": "http://skyswim.mrammo.ca/",
@@ -39,6 +43,10 @@
 			"name": "OpenGL Learning Project",
 			"desc": "Began learning OpenGl for a Computer Graphics class. This is the end result, implemented a POV camera, object model loading, shading (lighting), etc..",
 			"github": "https://github.com/rammom/COMP3520-FinalProject",
+			"other": {
+				"name": "Video",
+				"link": "https://www.youtube.com/watch?v=wA40nn_US_g&feature=youtu.be"
+			},
 			"date": "Wed Apr 10 2019",
 			"img": "./OpenGl.png",
 			"badges": [
@@ -60,6 +68,10 @@
 			"name": "IPD Genetic Algorithm",
 			"desc": "Genetic Algorithm to find optimal solutions to the Iterated Prisoner's Dilemma game",
 			"github": "https://github.com/rammom/IPD_GeneticAlgorithm",
+			"other": {
+				"name": "Paper",
+				"link": "https://docs.google.com/document/d/1TV7nQF-XnHPHVjnoNT8iKwX7fBcU08FUxxrUriw0Xhs/edit?usp=sharing"
+			},
 			"date": "Tue Mar 26 2019",
 			"img": "./IPD_Genetic.png",
 			"demo": "http://ipd.mrammo.ca/",
