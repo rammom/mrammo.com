@@ -3,7 +3,6 @@
 		{
 			"name": "Analytics In Practice",
 			"desc": "Online bookstore, Queen’s University students can purchase and read class textbooks through the app; active and steady revenue stream for professors using the service",
-			"github": "https://github.com/rammom/SkySwim.git",
 			"other": {
 				"name": "View Site",
 				"link": "https://analyticsinpractice.ca/"
