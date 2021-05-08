@@ -56,8 +56,7 @@ export class ProjectPage extends Component {
 				<Container>
 					<div style={{margin: '5%'}}>
 						Here are some of the projects I've worked on, <b>click on any of them to view the github page. </b><br />
-						As a side note, I try to improve my skills day by day. That being said, if the code here sucks I'm sorry, I promise I'm working on making myself better.
-						I keep these projects up as benchmarks, and for a little bit of nostalgia.
+						As a side note, I try to improve my skills day by day. That being said, the code here might suck, I'm working on making myself better.
 						Enjoy :)
 					</div>
 					{this.render_projects()}

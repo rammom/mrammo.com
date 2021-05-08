@@ -1,6 +1,27 @@
 {
 	"projects": [
 		{
+			"name": "Analytics In Practice",
+			"desc": "Online bookstore, Queen’s University students can purchase and read class textbooks through the app; active and steady revenue stream for professors using the service",
+			"github": "https://github.com/rammom/SkySwim.git",
+			"other": {
+				"name": "View Site",
+				"link": "https://analyticsinpractice.ca/"
+			},
+			"date": "April 2020",
+			"img": "./aip.png",
+			"badges": [
+				{
+					"language": "Node.js",
+					"color": "warning"
+				},
+				{
+					"language": "Angular 2",
+					"color": "danger"
+				}
+			]
+		},
+		{
 			"name": "SkySwim",
 			"desc": "Utilized conventional software engineering methodologies in order to mimic a modern day social media web app",
 			"github": "https://github.com/rammom/SkySwim.git",
@@ -10,7 +31,6 @@
 			},
 			"date": "Mon Dec 30 2019",
 			"img": "./skyswim3.png",
-			"demo": "http://skyswim.mrammo.ca/",
 			"badges": [
 				{
 					"language": "Node.js",
@@ -109,7 +129,6 @@
 			"github": "https://github.com/rammom/ShopifyApplicationWinter2019",
 			"date": "Mon Sep 17 2018",
 			"img": "./shopify.png",
-			"demo": "https://shopify19.mrammo.ca/",
 			"badges": [
 				{
 					"language": "Node.js",
